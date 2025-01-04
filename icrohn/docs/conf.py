@@ -127,8 +127,8 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass
 # [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'icrohn.tex',
-     'iCrohn Documentation',
+    (master_doc, 'hurting.tex',
+     'hurting Documentation',
      'Jeremy Paul Evans', 'manual'),
 ]
 
@@ -138,8 +138,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'icrohn',
-     'iCrohn Documentation',
+    (master_doc, 'hurting',
+     'hurting Documentation',
      [author], 1)
 ]
 
@@ -150,10 +150,10 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'icrohn',
-     'iCrohn Documentation',
+    (master_doc, 'hurting',
+     'hurting Documentation',
      author,
-     'icrohn',
+     'hurting',
      'One line description of project.',
      'Miscellaneous'),
 ]

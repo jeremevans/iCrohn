@@ -1,4 +1,3 @@
-
 """Top-level package for hurting."""
 
 __author__ = """Jeremy Paul Evans"""
