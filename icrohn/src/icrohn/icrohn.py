@@ -1,1 +1,1 @@
-"""Main module."""
+# This file can be removed.

@@ -1,7 +1,8 @@
+
 =====
 Usage
 =====
 
-To use iCrohn in a project::
+To use hurting in a project::
 
-    import icrohn
+    import hurting

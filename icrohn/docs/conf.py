@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'iCrohn'
+project = 'hurting'
 copyright = "2024, Jeremy Paul Evans"
 author = "Jeremy Paul Evans"
 
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'icrohndoc'
+htmlhelp_basename = 'hurtingdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------

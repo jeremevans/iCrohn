@@ -8,5 +8,6 @@ icrohn/docs/conf.py
 icrohn/src/icrohn/__init__.py
 icrohn/src/icrohn/cli.py
 icrohn/src/icrohn/icrohn.py
+icrohn/src/icrohn/main.py
 icrohn/tests/__init__.py
 icrohn/tests/test_icrohn.py
